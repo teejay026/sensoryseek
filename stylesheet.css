@@ -1,7 +1,5 @@
 body {
     justify-content: center;
-    margin: 1%;
-    padding: 2%;
     font-family: 'Balsamiq Sans', sans-serif;
 }
 
@@ -14,11 +12,15 @@ h1, h2, h3, h4, h5, h6 {
     max-width: fit-content;
 
 }
-article{
-    justify-content: center;
-    max-width: fit-content;
+.jumbotron{
+    margin: auto;
 }
 
-div {
+.container {
+    justify-content: center;
+    text-align: center;
+}
+
+.navbar {
     justify-content: center;
 }
