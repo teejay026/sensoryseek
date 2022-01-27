@@ -9,7 +9,7 @@ title {
 
 h1, h2, h3, h4, h5, h6 {
     justify-content: center;
-    max-width: fit-content;
+    text-align: center;
 
 }
 .jumbotron{
