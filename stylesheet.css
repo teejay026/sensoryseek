@@ -1,6 +1,7 @@
 body {
     margin: 1%;
-    padding: 2%
+    padding: 2%;
+    font-family: 'Balsamiq Sans', sans-serif;
 }
 
 title {
@@ -9,5 +10,5 @@ title {
 
 h1, h2, h3, h4, h5, h6 {
     justify-content: center;
-    
+
 }
