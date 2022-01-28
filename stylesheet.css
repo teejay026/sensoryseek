@@ -1,6 +1,7 @@
 body {
     justify-content: center;
     font-family: 'Balsamiq Sans', sans-serif;
+    background-color: #F7D8B5;
 }
 
 title {
@@ -14,6 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .jumbotron{
     margin: auto;
+    background-color: #D0C8B6;
 }
 
 .container {
