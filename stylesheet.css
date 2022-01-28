@@ -11,9 +11,10 @@ title {
 h1, h2, h3, h4, h5, h6 {
     justify-content: center;
     text-align: center;
+    font-weight: bold;
 
 }
-.jumbotron{
+.jumbotron.text-center {
     margin: auto;
     background-color: #D0C8B6;
 }
